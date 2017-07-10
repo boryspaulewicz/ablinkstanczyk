@@ -188,9 +188,7 @@ W razie jakichkolwiek wątpliwości proszę nie wołać osoby prowadzącej, tylk
 Osoba prowadząca podejdzie w dogodnym momencie i postara się udzielić wszelkich wyjaśnień. 
 Badanie jest anonimowe.
 
-Za chwilę trzeba będzie wpisać dane osobowe: wiek, płeć oraz pseudonim.
-Pseudonim składa się z inicjałów (małymi literami) oraz czterech cyfr:
-dnia i miesiąca urodzenia (np.  ms0706).")
+Za chwilę trzeba będzie wpisać dane osobowe: wiek, płeć oraz pseudonim.")
 gui.user.data('^[a-zA-Z0-9]+$', 'Identyfikator nie może zawierać spacji')
 
 gui.show.instruction("Teraz rozpocznie się zadanie wykrywania koloru ramki. Zadanie to składa się z serii prób, w trakcie których na ekranie komputera prezentowane są szybko, jedno po drugim, różne obrazy. W pewnym momencie prezentowane są obrazy otoczone ramką w kolorze zielonym lub czerwonym.
